@@ -4,5 +4,6 @@ python-dotenv
 
 
 # Run in the terminal:
-# pip install -r requeriments.txt
+# pip install -r requirements.txt
 # This will install all the dependencies so the bot can work properly
+
