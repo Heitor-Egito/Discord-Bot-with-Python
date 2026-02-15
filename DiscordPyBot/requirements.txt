@@ -1,2 +1,8 @@
 discord.py
+
 python-dotenv
+
+
+# Run in the terminal:
+# pip install -r requeriments.txt
+# This will install all the dependencies so the bot can work properly
