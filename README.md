@@ -3,6 +3,7 @@ This is a small project made purely for fun and work with a new library (Discord
 
 # Features:
 - Adding/Removing roles based in reactions
+- Can now play BlackJack (Card Game)
 
 # How to use:
 - Download the DiscordPyBot folder
